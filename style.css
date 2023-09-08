@@ -112,3 +112,8 @@ li p {
 .empty {
   color: darkslategrey;
 }
+@media (max-width: 576px){
+  .container{
+    width: 80%;
+  }
+}
